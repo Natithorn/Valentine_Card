@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173** in your browser. The app reloads instantly as you code.
+Open **http://localhost:** in your browser. The app reloads instantly as you code.
 
 ### 📋 Available Scripts
 
@@ -156,7 +156,7 @@ npm install
 npm run dev
 ```
 
-เปิด **http://localhost:5173** ในเบราว์เซอร์ของคุณ แอปจะรีโหลดทันทีขณะที่คุณเขียนโค้ด
+เปิด **http://localhost:** ในเบราว์เซอร์ของคุณ แอปจะรีโหลดทันทีขณะที่คุณเขียนโค้ด
 
 ### 📋 สคริปต์ที่มีอยู่
 
